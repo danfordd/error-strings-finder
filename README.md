@@ -1,12 +1,8 @@
-<h1 align="center">
-  <picture>
-      <source height="125" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notscreenshare/assets/refs/heads/main/ESfinder.svg">
-      <img height="125" alt="ESfinder" src="https://raw.githubusercontent.com/notscreenshare/assets/refs/heads/main/ESfinder.svg">
-    </picture>
-</h1>
 <p align="center">
   <em>Detect string in process on Linux.</em>
 </p>
+
+https://github.com/user-attachments/assets/4864b8b3-f72e-46fd-bc4e-5a48f0920b2a
 
 ---
 ### **Shell (recommended)**
