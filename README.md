@@ -1,3 +1,6 @@
+<h1>
+  Error Strings Finder
+</h1>
 <p align="center">
   <em>Detect string in process on Linux.</em>
 </p>
