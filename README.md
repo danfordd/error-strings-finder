@@ -8,9 +8,6 @@
   <em>Detect string in process on Linux.</em>
 </p>
 
-https://github.com/user-attachments/assets/4864b8b3-f72e-46fd-bc4e-5a48f0920b2a
-
-
 ---
 ### **Shell (recommended)**
 ```sh
@@ -38,7 +35,3 @@ $ sudo -E <esf-file>
 ```
 DetectName---String
 ```
-
----
-
-You can also find it at [notscreenshare](https://github.com/notscreenshare)
