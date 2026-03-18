@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   Error Strings Finder
 </h1>
 <p align="center">
